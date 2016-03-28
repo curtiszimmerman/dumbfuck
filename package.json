@@ -1,0 +1,25 @@
+{
+  "name": "dumbfuck",
+  "version": "1.0.0",
+  "description": "It's a package, dumbfuck.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curtiszimmerman/dumbfuck.git"
+  },
+  "keywords": [
+    "dumbfuck"
+  ],
+  "author": "curtis zimmerman",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/curtiszimmerman/dumbfuck/issues"
+  },
+  "homepage": "https://github.com/curtiszimmerman/dumbfuck#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
